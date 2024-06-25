@@ -12,7 +12,10 @@ Dans le but d’améliorer leurs qualités, nous vous invitons à partager vos c
 en nous contactant à l’adresse suivante : fichesreflexes-remediation[at]intercert-france.fr
 
 Licence : CC BY-NC-SA 4.0
+
 Les fiches sont sous licence de type : https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+![image](https://github.com/intercert-france/publications/assets/18644606/bab45fbb-bc2d-41a8-9acc-aea1ba6e369a)
 
 **Warning** 
 Ne doit pas être utilisé dans un but commercial
